@@ -1,0 +1,1 @@
+<h1>course is {{Request::query('id')}}</h1>
